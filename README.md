@@ -1,4 +1,4 @@
-
+Adding new line to test trigger feature in Harness 
 ## Available Scripts
 
 In the project directory, you can run:
